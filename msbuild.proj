@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<project ToolVersion="4.7" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+<PropertyGroup>
+  <vineeta>this is me.</vineeta>
+  <Gaurav>This is my Husband.</Gaurav>
+</PropertyGroup>
+  <Target name="FirstTarget">
+    <Message>Hello World!</Message>
+  </Target>
+</project>

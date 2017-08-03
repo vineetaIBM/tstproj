@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Vineeta>This is my name.</Vineeta>
+    <gaurav>My Husbands</gaurav>
+  </PropertyGroup>
+  <Target Name="FirstTarget">  
+    <Message Text="Hello World."/>    
+  </Target>  
+</Project>  
